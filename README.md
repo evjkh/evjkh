@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=evjkh&theme=dark&hide_border=true&border_radius=20&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=00000000&stroke=3F3F3F)](https://git.io/streak-stats" />
+  <img src="https://streak-stats.demolab.com?user=evjkh&theme=dark&hide_border=true&border_radius=20&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=00000000&stroke=707070)](https://git.io/streak-stats" />
 </div>
